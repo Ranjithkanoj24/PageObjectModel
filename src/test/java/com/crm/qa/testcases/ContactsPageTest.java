@@ -40,7 +40,7 @@ public class ContactsPageTest extends TestBase{
 			
 	}
 	
-	
+	//This is a @BeforeMethod
 	@BeforeMethod
 	public void setUp() {
 		
